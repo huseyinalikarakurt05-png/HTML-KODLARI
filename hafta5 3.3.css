@@ -1,0 +1,20 @@
+#Merhaba{
+    background-color: red;
+}
+#paragraf1{
+    color: blue;
+    font-size: 40px !important;
+    
+}
+#paragraf2{
+    color: red;
+    font-size: 30px;
+}
+#paragraf3{
+    color: aqua;
+    font-size: 20px;
+}
+.başlık{
+    font-size: 40px;
+    color: purple;
+}
